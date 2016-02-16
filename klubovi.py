@@ -1,0 +1,1 @@
+print("Pozdrav, ovo je datoteka klubovi.py")
