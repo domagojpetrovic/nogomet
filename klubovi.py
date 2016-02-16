@@ -1,1 +1,1 @@
-print("Pozdrav, ovo je datoteka klubovi.py")
+print("Obrisao sam juventus.py")
