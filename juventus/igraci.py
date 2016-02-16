@@ -1,0 +1,1 @@
+print("U nogomet direktoriju se nalaze barca, juventus i real direktoriji")
